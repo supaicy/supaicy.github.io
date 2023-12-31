@@ -19,8 +19,8 @@ title: SupaIcy # the main title
 tagline: Be Icy # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  알고리즘, algorithm, programming, java, c, c++, c#, python, sql, node, jetbrain, code, coding, computer, 
-  development, 백준, programmers, 디자인패턴, 개발, 자료구조와 알고리즘, 객체지향, 객체지향 프로그래밍, 멀티스레딩, 코드 리뷰, 
+  알고리즘, algorithm, programming, java, c, c++, c#, python, sql, node, jetbrain, code, coding, computer,
+  development, 백준, programmers, 디자인패턴, 개발, 자료구조와 알고리즘, 객체지향, 객체지향 프로그래밍, 멀티스레딩, 코드 리뷰,
   테스트 주도 개발(TDD), 프로젝트 관리, 코드 최적화, 데이터 구조, 프로그래밍 언어.
 
 # Fill in the protocol & hostname for your site.
@@ -75,7 +75,7 @@ theme_mode: dark # [light|dark]
 img_cdn: # "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/avatar.png"
+avatar: "/assets/img/selfie.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
