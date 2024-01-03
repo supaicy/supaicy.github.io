@@ -1,7 +1,7 @@
 ---
 title: 웹 어플리케이션 이란?
 author: supaicy
-categories: [Jsp, Servlet]
+categories: [JSP, Servlet]
 tags: [jsp,servlet,서버,web,기초지식]
 ---
 
